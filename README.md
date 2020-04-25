@@ -1,4 +1,4 @@
-# online_job_portal
+# Flutter-jobs
 
 A new Flutter project.
 
