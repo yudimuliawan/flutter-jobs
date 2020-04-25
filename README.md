@@ -3,7 +3,9 @@
 A new Flutter project.
 
 Referensi arsitektur scoped_model https://drive.google.com/drive/folders/14N-0QHVcGUpSuyLFRDhSOjeo2JDrCfUi
+
 Apple pay https://developer.apple.com/apple-pay/
+
 G pay https://developers.google.com/pay/api/android/guides/setup
 
 ## Getting Started
