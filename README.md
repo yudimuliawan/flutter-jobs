@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Referensi arsitektur scoped_model https://drive.google.com/drive/folders/14N-0QHVcGUpSuyLFRDhSOjeo2JDrCfUi
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
