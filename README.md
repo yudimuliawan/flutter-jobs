@@ -6,7 +6,7 @@ Referensi arsitektur scoped_model https://drive.google.com/drive/folders/14N-0QH
 
 Apple pay https://developer.apple.com/apple-pay/
 
-Package https://github.com/square/in-app-payments-flutter-plugin/blob/master/doc/enable-applepay.md
+Plugin https://github.com/square/in-app-payments-flutter-plugin/blob/master/doc/enable-applepay.md
 
 G pay https://developers.google.com/pay/api/android/guides/setup
 
